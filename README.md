@@ -53,7 +53,7 @@ Step 1. Add it in your root build.gradle at the end of repositories:
 Step 2. Add the dependency
 ```groovy
 	dependencies {
-	        implementation 'com.github.ruslansharipov:imagegetter:Tag'
+	        implementation 'com.github.ruslansharipov:imagegetter:0.1.0'
 	}
 ```
 Based on this https://stackoverflow.com/a/36251602/10951565
